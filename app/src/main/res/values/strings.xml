@@ -1,3 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">BookLend</string>
+    <string name="app_tagline">Tu biblioteca en la palma de tu mano</string>
+    <string name="nav_books">Libros</string>
+    <string name="nav_loan">Préstamo</string>
+    <string name="nav_detail">Detalle</string>
+    <string name="search_hint">Buscar libros…</string>
+    <string name="btn_request_loan">Solicitar Préstamo</string>
+    <string name="btn_submit">Enviar Solicitud</string>
+    <string name="label_available">DISPONIBLE</string>
+    <string name="label_unavailable">NO DISPONIBLE</string>
+    <string name="error_name_required">El nombre es requerido</string>
+    <string name="error_email_invalid">Correo electrónico inválido</string>
+    <string name="error_phone_invalid">Teléfono inválido</string>
+    <string name="error_date_required">La fecha de devolución es requerida</string>
+    <string name="success_loan_title">¡Solicitud enviada!</string>
+    <string name="loading">Cargando…</string>
+    <string name="no_books_found">No se encontraron libros</string>
 </resources>

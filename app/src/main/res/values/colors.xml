@@ -1,5 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
+    <!-- Primary palette -->
+    <color name="primary">#1B6CA8</color>
+    <color name="primary_dark">#14508A</color>
+    <color name="primary_light">#E8F2FB</color>
+    <color name="accent">#F57C00</color>
+    <color name="accent_light">#FFF3E0</color>
+
+    <!-- Background -->
+    <color name="background">#F4F6F9</color>
+    <color name="surface">#FFFFFF</color>
+
+    <!-- Text -->
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="text_hint">#BDBDBD</color>
+
+    <!-- Status -->
+    <color name="available_color">#2E7D32</color>
+    <color name="available_bg">#E8F5E9</color>
+    <color name="unavailable_color">#C62828</color>
+    <color name="unavailable_bg">#FFEBEE</color>
+
+    <!-- Misc -->
+    <color name="divider_color">#E0E0E0</color>
+    <color name="chip_selected">#1B6CA8</color>
+    <color name="chip_unselected">#FFFFFF</color>
+
+    <!-- Added missing colors required by fragments -->
+    <color name="white">#FFFFFF</color>
+    <color name="blue">#1B6CA8</color>
 </resources>
